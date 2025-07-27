@@ -1,2 +1,2 @@
-# KitchenKart
-KitchenKart – Bridging Street Vendors to Smart, Nearby Supply!
+# GalliSupply
+GulliSupply– Bridging Street Vendors to Smart, Nearby Supply!
